@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="your_score">Your Score:</string>
+    <string name="cpu_score">CPU Score:</string>
+    <string name="your_turn_score">Your Turn Score:</string>
+    <string name="cpu_turn_score">CPU Turn Score:</string>
+    <string name="reset">RESET</string>
+    <string name="roll">ROLL</string>
+    <string name="hold">HOLD</string>
+</resources>
